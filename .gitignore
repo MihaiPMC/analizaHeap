@@ -5,6 +5,7 @@
 CMakeCache.txt
 cmake_install.cmake
 Makefile
+/analizaHeap
 
 # Compiled object files and libraries
 *.o
