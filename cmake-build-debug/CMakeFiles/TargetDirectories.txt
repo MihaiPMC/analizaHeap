@@ -1,0 +1,3 @@
+/Users/mihai/Facultate/Anul_1/Semestrul_2/sd/lab/Proiecte/analizaHeap/cmake-build-debug/CMakeFiles/analizaHeap.dir
+/Users/mihai/Facultate/Anul_1/Semestrul_2/sd/lab/Proiecte/analizaHeap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mihai/Facultate/Anul_1/Semestrul_2/sd/lab/Proiecte/analizaHeap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
