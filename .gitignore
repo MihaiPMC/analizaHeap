@@ -22,3 +22,4 @@ Makefile
 
 # macOS system files
 .DS_Store
+teste/large*.txt
