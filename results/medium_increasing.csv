@@ -1,0 +1,11 @@
+Test,medium_increasing
+Total Operations,3000000
+Insert Operations,1000000
+Search Operations,1000000
+Delete Operations,1000000
+
+Operation,SkipList Total (ms),SkipList Avg (ms/op),Treap Total (ms),Treap Avg (ms/op)
+Insert,1240.883,0.001241,516.245,0.000516
+Search,955.050,0.000955,367.583,0.000368
+Delete,1382.423,0.001382,445.179,0.000445
+Total,3578.356,,1329.007,
